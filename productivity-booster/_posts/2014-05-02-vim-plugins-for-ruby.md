@@ -79,11 +79,11 @@ Type this into vim session to run NerdTree:
 
 You should see content of current working directory. NerdTree use vim navigation keys to move up and down to directory tree.
 
-<img class="vim" src="/images/nerd_tree.png" alt="nerd tree"></img>
+<img class="vim" src="/images/nerd_tree.png" alt="nerd tree">
 
 Let's assume you want to open up directory **app**. Navigate to app with Vim and press key **o**. You should see content of app directory:
 
-<img class="vim" src="/images/nerd_tree_app.png" alt="nerd tree app"></img>
+<img class="vim" src="/images/nerd_tree_app.png" alt="nerd tree app">
 
 ## 3. [Vim-fugitive](https://github.com/tpope/vim-fugitive)
 
